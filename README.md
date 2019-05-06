@@ -15,5 +15,10 @@ Check the changes in config.inc.php.dist, if any, against your local copy and po
 
 Remember to adjust config.inc.php to match your company, server and location. The dist file has dummy values that will not work on its own.
 
+
+change https to http in config.ini.php
+
+
+
 Follow the discussion here:
 https://www.zabbix.com/forum/showthread.php?t=24998
